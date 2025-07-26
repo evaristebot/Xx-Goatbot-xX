@@ -24,10 +24,7 @@
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "[📩]───────/)    /)
-👑𝚂𝚄𝙿𝚁𝙴̂𝙼𝙴 ㋛ᗷOT(｡•ㅅ•｡)
-╭────────∪─∪
-╰",
+  "nickNameBot": "👑𝚂𝚄𝙿𝚁𝙴̂𝙼𝙴 ㋛",
   "prefix": "£",
   "database": {
     "type": "sqlite",
